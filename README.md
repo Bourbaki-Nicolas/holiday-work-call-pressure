@@ -25,6 +25,8 @@ What should I do or react when my boss or customer calls me for work while I am 
 
 Answer the call and say I will participate in their discussion later when I have free time
 
-### Proper ways to do this
+### Proper ways to do this (Principle)
 
-1. 
+1. May not respond in a timely manner (because I am not at work, it's my right to take a rest on my holiday)
+2. Tell them I would like to help but since I am not in the work office so I can't deal with it now
+3. Let them know I can't help much right now and they can try some other ways first. 
