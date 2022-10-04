@@ -29,4 +29,5 @@ Answer the call and say I will participate in their discussion later when I have
 
 1. May not respond in a timely manner (because I am not at work, it's my right to take a rest on my holiday)
 2. Tell them I would like to help but since I am not in the work office so I can't deal with it now
-3. Let them know I can't help much right now and they can try some other ways first. 
+   (I learned this from [ 曾仕强(Bilibili)](https://www.bilibili.com/video/BV1HJ411u7gD))
+4. Let them know I can't help much right now and they can try some other ways first. 
